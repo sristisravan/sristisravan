@@ -3,7 +3,7 @@
 
 🎯 Passionate about cybersecurity, reverse engineering, and embedded systems  
 🧠 Always learning, always curious  
-💼 Currently working at Continental Automotive, Singapore
+💼 Currently working at Continental Automotive 
 🔭 Exploring: Automotive Security | Firmware Emulation | Threat Modeling | Red Team Techniques
 
 <h2 style="color:rgba(64, 26, 255, 1);"> 🛠️ Tools & Technologies</h2>

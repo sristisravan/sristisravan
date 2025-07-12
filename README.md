@@ -1,10 +1,44 @@
-<h2> 📃 about </h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sristisravan&count_private=true&show_icons=true&theme=merko" width="380">
-<p>
-<img src="https://github.com/sristisravan/sristisravan/blob/master/assets/twitter.png" width="25" height="25" /> <a href="https://twitter.com/sristisravan"><img src="https://img.shields.io/badge/twitter-sristisravan-blue" height="25"></a> <br>
-<img src="https://github.com/sristisravan/sristisravan/blob/master/assets/htb.png" width="25" height="25" /> <a href="https://www.hackthebox.eu/profile/12469"><img src="https://img.shields.io/badge/hackthebox-hacker194-green" height="25"></a> <br>
+<div style="background-color:rgba(0, 0, 0, 1); text-align:left; vertical-align: middle; color: white; font-size: 12px; padding:40px 0;">
+<img src= assets/intro.gif alt="👋 Hi there! I'm Sristi Sravan)" title="👋 Hi there! I'm Sristi Sravan"/>
 
-</p>
+🎯 Passionate about cybersecurity, reverse engineering, and embedded systems  
+🧠 Always learning, always curious  
+🚀 Currently working at Continental Automotive, Singapore
+🔭 Exploring: Automotive Security | Firmware Emulation | Threat Modeling | Red Team Techniques
+
+<h2 style="color:rgba(17, 243, 9, 1);"> 🛠️ Tools & Technologies</h2>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-x86Assembly-007AAC?style=flat-square&logo=assemblyscript&logoColor=white"/> <br>
+ <img src="https://img.shields.io/badge/-BurpSuite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+ <br>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=black" />
+<img src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=black" />
+
+<br>
+<img src="https://img.shields.io/badge/-Embedded%20Systems-green?style=flat-square" />
+<img src="https://img.shields.io/badge/-Software%20Defined%20Radios-blue?style=flat-square" />
+
+
+<h2 style="color:rgba(17, 243, 9, 1);">📩 Connect with me</h2>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sristisravan)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sristisravan)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/sristisravan)
+[![Hackerone](https://img.shields.io/badge/-hackerone-494649?style=flat-square&logo=hackerone&logoColor=white)](https://twitter.com/sristisravan)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=white)](https://twitter.com/sristisravan)
 
 
 
+---
+
+⭐️ Thanks for stopping by! Don’t forget to check out my pinned repositories below.
+</div>

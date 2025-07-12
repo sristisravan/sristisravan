@@ -1,4 +1,4 @@
-<div style="background-color:rgba(0, 0, 0, 1); text-align:left; vertical-align: middle; color: white; font-size: 12px; padding:40px 0;">
+<div style="background-color:rgba(255, 255, 255, 1); text-align:left; vertical-align: middle; color: black; font-family: 'Poppins'; font-size: 12px; padding:40px 0;">
 <img src= assets/intro.gif alt="👋 Hi there! I'm Sristi Sravan)" title="👋 Hi there! I'm Sristi Sravan"/>
 
 🎯 Passionate about cybersecurity, reverse engineering, and embedded systems  
@@ -6,7 +6,7 @@
 🚀 Currently working at Continental Automotive, Singapore
 🔭 Exploring: Automotive Security | Firmware Emulation | Threat Modeling | Red Team Techniques
 
-<h2 style="color:rgba(17, 243, 9, 1);"> 🛠️ Tools & Technologies</h2>
+<h2 style="color:rgba(64, 26, 255, 1);"> 🛠️ Tools & Technologies</h2>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/-x86Assembly-007AAC?style=flat-square&logo=assemblyscript&logoColor=white"/> <br>
@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/-Software%20Defined%20Radios-blue?style=flat-square" />
 
 
-<h2 style="color:rgba(17, 243, 9, 1);">📩 Connect with me</h2>
+<h2 style="color:rgba(64, 26, 255, 1);">📩 Connect with me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sristisravan)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sristisravan)
